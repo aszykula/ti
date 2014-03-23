@@ -22,7 +22,7 @@ Strona z linkami do projektów na zaliczenie i egzamin z przedmiotu „Technik
 1. Hinz Karol
 1. [Pastuszka Anna][a]
 1. Perkowski Maciej
-1. Szykuła Artur
+1. [Szykuła Artur](http://aszykula.github.io/), Slajdy (to do...)
 1. Turzyński Michał[f]
 1. Wardzińska Justyna
 1. Zielke Adam
