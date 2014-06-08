@@ -78,7 +78,7 @@ Ostateczny termin pull requests z danymi upływa 24.08.2014.
 1. Kalarus Marcin
 1. Hinz Karol
 1. Perkowski Maciej
-1. Szykuła Artur
+[Szykuła Artur][asz]
 1. Turzyński Michał
 1. Wardzińska Justyna
 1. Zielke Adam
@@ -87,6 +87,7 @@ Ostateczny termin pull requests z danymi upływa 24.08.2014.
 [c]:http://matismatis93.github.io/techint
 [d]:http://tomasz.fr
 [g]:http://kbudka.github.io/Zadania_TI
+[asz]:http://liga3miasto.meteor.com/
 
 
 ### Użyteczne narzędzia
